@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://www.google.com',
+	'https://www.tpa-tw.org',
+	'https://psychology.kmu.edu.tw/index.php/zh-tw/'
 ];
